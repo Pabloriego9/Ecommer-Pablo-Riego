@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "editorial": "DC",
+    "nombre": "Linterna Verde",
+    "precio": 5900,
+    "descripcion": "8 GB RAM, Color: Gold, DD 128GB",
+    "imagen": "/img/data4.jpg"
+  },
+  {
+    "id": 2,
+    "editorial": "DC",
+    "nombre": "ACER",
+    "precio": 3000,
+    "descripcion": "16 GB RAM, Color:Negro, DD 1 TBB",
+    "imagen": "/img/data2.jpg"
+  },
+  {
+    "id": 3,
+    "editorial": "DC",
+    "nombre": "LENOVO",
+    "precio": 4000,
+    "descripcion": "4 GB RAM, Color: Plateado, DD 1 TB",
+    "imagen": "/img/data3.jpg"
+  },
+  {
+    "id": 4,
+    "editorial": "DC",
+    "nombre": "HP PAVILION",
+    "precio": 5769,
+    "descripcion": "8 GB RAM, Color:Plateado, SSD 256 GB",
+    "imagen": "/img/data1.jpg"
+  },
+  {
+    "id": 5,
+    "editorial": "DC",
+    "nombre": "SAMSUNG",
+    "precio": 2599,
+    "descripcion": "4 GB RAM, Color:Blanco, DD 64 GB",
+    "imagen": "/img/data6.jpg"
+  },
+  {
+    "id": 6,
+    "editorial": "DC",
+    "nombre": "HUAWEI",
+    "precio": 5769,
+    "descripcion": "8 GB RAM, Color:Negro, DD 256 GB",
+    "imagen": "/img/data5.jpg"
+  },
+  {
+    "id": 7,
+    "editorial": "DC",
+    "nombre": "DELL",
+    "precio": 5397,
+    "descripcion": "8 GB RAM, Color:Negro, DD 1 TB",
+    "imagen": "/img/data7.jpg"
+  },
+  {
+    "id": 8,
+    "editorial": "DC",
+    "nombre": "LG",
+    "precio": 4299,
+    "descripcion": "8 GB RAM, Color:Plateado, DD 256 GB",
+    "imagen": "/img/data9.jpg"
+  },
+  {
+    "id": 9,
+    "editorial": "DC",
+    "nombre": "ADVANCE",
+    "precio": 869,
+    "descripcion": "3 GB RAM, Color:Negro, DD 64 GB",
+    "imagen": "/img/data8.jpg"
+  },
+
+  {
+    "id": 10,
+    "editorial": "MARVEL",
+    "nombre": "Spider-Man",
+    "precio": 869,
+    "descripcion": "3 GB RAM, Color:Negro, DD 64 GB",
+    "imagen": "/img/data8.jpg"
+  },
+  {
+    "id": 11,
+    "editorial": "MARVEL",
+    "nombre": "Iron-Man",
+    "precio": 869,
+    "descripcion": "3 GB RAM, Color:Negro, DD 64 GB",
+    "imagen": "/img/data8.jpg"
+  }
+]

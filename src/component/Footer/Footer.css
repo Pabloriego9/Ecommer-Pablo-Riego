@@ -1,0 +1,259 @@
+@charset "UTF-8";
+.Titulos {
+  color: green;
+  margin: 0;
+  font-size: 25px; }
+
+nav {
+  background: #dee91a;
+  background: linear-gradient(90deg, rgba(222, 233, 26, 0.510242) 30%, rgba(113, 230, 9, 0.641894) 98%);
+  margin: 0px auto;
+  padding: 1px;
+  width: 100%;
+  height: 100%; }
+
+body {
+  margin: 0; }
+
+hr {
+  margin: 0; }
+
+.Logo {
+  text-align: center;
+  font-family: 'Carter One', cursive;
+  text-decoration: underline yellowgreen; }
+
+.Menu a {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 10px; }
+
+.Menu li {
+  display: inline;
+  margin-right: 20px; }
+
+.Menu ul {
+  display: flex;
+  justify-content: center; }
+
+.footer-hr {
+  border: 2px solid #373131; }
+
+.footer-content {
+  color: #c6c6c7;
+  font-size: 19px; }
+
+.olEmma {
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+
+.listas {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.subtitulo {
+  text-align: center;
+  padding-top: 20px; }
+
+section {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+li {
+  color: black;
+  font-size: 22px;
+  font-weight: bold; }
+
+.subtitulo2 {
+  font-size: 40px; }
+
+/* borde de quienes somos nosotros*/
+.borde {
+  font-family: Arial;
+  text-align: center;
+  border: 2px solid;
+  margin-top: 30px;
+  background: #dee91a;
+  background: linear-gradient(90deg, rgba(222, 233, 26, 0.510242) 30%, rgba(113, 230, 9, 0.641894) 98%);
+  /* margin: auto; */
+  margin-top: 10px !important;
+  width: 90% !important;
+  margin-left: 5% !important;
+  }
+
+.borde:hover {
+  transform: scale(1.1); }
+
+/* color de quienes somos nosotros*/
+.h2 {
+  color: green; }
+
+/* texto de quienes somos nosotros h3*/
+.anchura {
+  width: 60%; }
+
+/* columna y fila con el flex*/
+.padre-flex {
+  display: flex; }
+
+/* Button en la parte de seccion de enviar o borrar*/
+#miBoton {
+  padding: 1px;
+  background: light-gray;
+  color: black; }
+
+#miBoton {
+  padding: 1px;
+  background: light-gray;
+  color: black; }
+
+#miBoton:hover {
+  padding: 10px;
+  background: yellowgreen;
+  color: black; }
+
+#miBoton:active {
+  padding: 2px;
+  background: gray;
+  color: white; }
+
+/*...............................*/
+/* animacion del titulo h1 */
+.animate__backInLeft {
+  display: inline-block;
+  margin: 0 0.5rem;
+  animation: bounce;
+  animation-duration: 1s; }
+
+/* animacion de quienes somos nosotros en div*/
+.animate__zoomInDown {
+  display: inline-block;
+  margin: 0 0.5rem;
+  animation: bounce;
+  animation-duration: 2s; }
+
+/*-------------------------------------*/
+/* manejo de grid en galeria de imagen */
+.contenedor {
+  width: 100%;
+  margin: auto; }
+
+img {
+  width: 100%;
+  }
+
+.persona__columna {
+  margin: 5px; }
+
+.personas .contenedor {
+  display: grid; }
+
+/*-----------------------------------*/
+/* aca se empieza hacer remponsive  en la galeria de imagen*/
+@media (min-width: 520px) {
+  .personas .contenedor {
+    grid-template-columns: repeat(2, 50%); } }
+
+/* footer en general */
+/*.grad{
+    
+    background: rgb(55,49,49);
+    background: radial-gradient(circle, rgba(55,49,49,1) 49%, rgba(41,39,39,1) 82%);
+}*/
+/* para cambiar los tamaño de al acercar el mouse */
+.conen1:hover {
+  transform: scale(1.2); }
+
+.conen2:hover {
+  transform: scale(1.2); }
+
+.conen3:hover {
+  transform: scale(1.2); }
+
+/* ----------------------------------------*/
+/* cambiar el margen de form en consulta */
+form {
+  margin-bottom: 6%;
+  margin-left: 35%;
+  margin-top: -1%; }
+
+.img-map {
+  max-width: 60%;
+  float: right;
+  margin-right: 50px; }
+
+iframe {
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0px; }
+
+/*------------------------------------*/
+.Menu a:hover {
+  color: yellowgreen; }
+
+.padre {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center; }
+
+.rectanguloAmarillo {
+  background-color: yellow; }
+
+/* Borde de promiciones Y fondo */
+.borde1 {
+  font-family: Arial;
+  text-align: center;
+  border: 2px solid;
+  margin-top: 30px;
+  background-color: yellow; }
+
+.borde2 {
+  font-family: Arial;
+  text-align: center;
+  border: 2px solid;
+  margin-top: 30px;
+  background-color: yellow; }
+
+.borde3 {
+  font-family: Arial;
+  text-align: center;
+  border: 2px solid;
+  margin-top: 30px;
+  background-color: yellow; }
+
+.fondo {
+  height: 100vh;
+  background-color: yellowgreen; }
+
+/* ----------------------------------------*/
+/*  del header*/
+.fondo1 {
+  background-color: #373131;
+  background-color: circle, #373131 49%, #292727 82%;
+  /* background: rgb(55,49,49);
+    background: (circle, rgba(55,49,49,1) 49%, rgba(41,39,39,1) 82%);*/
+  text-align: center; }
+
+.consultaflex {
+  justify-content: center;
+  margin: 5px;
+  background-color: #ffffff; }
+
+  .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
