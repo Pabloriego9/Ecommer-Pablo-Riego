@@ -38,7 +38,7 @@ export default function Footer() {
                   <p className="text-white">
                     <i className="fas fa-home mr-3 "/> Formosa, Formosa, Av.Italia 286 </p>
                   <p className="text-white"> 
-                    <i className="fas fa-envelope mr-3 "/> agenciaquiniela@gmail.com </p>
+                    <i className="fas fa-envelope mr-3 "/> comicsstore@gmail.com </p>
                   <p className="text-white">
                     <i className="fas fa-phone mr-3 "/>  WhatsApp: 54+3704772482</p>
 
@@ -48,7 +48,7 @@ export default function Footer() {
 
             </div>
             <p className="footer-content">®Todos los derechos reservados.  </p>
-            <a href="http://127.0.0.1:5501//index.html" className="footer-content">© Agencia de Quiniela Nº 88</a>
+            <a href="http://127.0.0.1:5501//index.html" className="footer-content">© Tienda Comics Store</a>
           </footer>
         </div>
     )

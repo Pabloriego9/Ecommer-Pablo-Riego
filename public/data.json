@@ -3,82 +3,81 @@
     "id": 1,
     "editorial": "DC",
     "nombre": "Linterna Verde",
-    "precio": 5900,
-    "descripcion": "8 GB RAM, Color: Gold, DD 128GB",
+    "precio": "$2200",
+    "descripcion": "Deasd Esmeralda",
     "imagen": "/img/data4.jpg"
   },
   {
     "id": 2,
     "editorial": "DC",
-    "nombre": "ACER",
-    "precio": 3000,
-    "descripcion": "16 GB RAM, Color:Negro, DD 1 TBB",
+    "nombre": "Death Metal",
+    "precio": "$800",
+    "descripcion": "Noches Oscuras",
     "imagen": "/img/data2.jpg"
   },
   {
     "id": 3,
     "editorial": "DC",
-    "nombre": "LENOVO",
-    "precio": 4000,
-    "descripcion": "4 GB RAM, Color: Plateado, DD 1 TB",
+    "nombre": "Wonder Woman",
+    "precio": "$1500",
+    "descripcion": "Guerrera",
     "imagen": "/img/data3.jpg"
   },
   {
     "id": 4,
     "editorial": "DC",
-    "nombre": "HP PAVILION",
-    "precio": 5769,
-    "descripcion": "8 GB RAM, Color:Plateado, SSD 256 GB",
+    "nombre": "Death Metal",
+    "precio": "$700",
+    "descripcion": "Noches Oscuras",
     "imagen": "/img/data1.jpg"
   },
   {
     "id": 5,
     "editorial": "DC",
-    "nombre": "SAMSUNG",
-    "precio": 2599,
-    "descripcion": "4 GB RAM, Color:Blanco, DD 64 GB",
+    "nombre": "Batman",
+    "precio": "$1200",
+    "descripcion": "Catwoman a través de las Décadas",
     "imagen": "/img/data6.jpg"
   },
   {
     "id": 6,
     "editorial": "DC",
-    "nombre": "HUAWEI",
-    "precio": 5769,
-    "descripcion": "8 GB RAM, Color:Negro, DD 256 GB",
+    "nombre": "Dectective Comics Batman ",
+    "precio": "$1100",
+    "descripcion": "Comics 80 Años ",
     "imagen": "/img/data5.jpg"
   },
   {
     "id": 7,
     "editorial": "DC",
-    "nombre": "DELL",
-    "precio": 5397,
-    "descripcion": "8 GB RAM, Color:Negro, DD 1 TB",
+    "nombre": "Watchmen",
+    "precio": "$3000",
+    "descripcion": " EDICIÓN DELUXE",
     "imagen": "/img/data7.jpg"
   },
   {
     "id": 8,
     "editorial": "DC",
-    "nombre": "LG",
-    "precio": 4299,
-    "descripcion": "8 GB RAM, Color:Plateado, DD 256 GB",
+    "nombre": "El Hombre de Acero",
+    "precio": "$4400",
+    "descripcion": " Rebirth",
     "imagen": "/img/data9.jpg"
   },
   {
     "id": 9,
-    "editorial": "DC",
-    "nombre": "ADVANCE",
-    "precio": 869,
-    "descripcion": "3 GB RAM, Color:Negro, DD 64 GB",
-    "imagen": "/img/data8.jpg"
+    "editorial": "MARVEL",
+    "nombre": "Civil War",
+    "precio": "$1500",
+    "descripcion": "La Guerra Civil de Miles Morales",
+    "imagen": "/img/data12.jpg"
   },
-
   {
     "id": 10,
     "editorial": "MARVEL",
     "nombre": "Spider-Man",
-    "precio": 869,
-    "descripcion": "3 GB RAM, Color:Negro, DD 64 GB",
-    "imagen": "/img/data8.jpg"
+    "precio": "$2500",
+    "descripcion": "Romance Arácnido",
+    "imagen": "/img/data10.jpg"
   },
   {
     "id": 11,
@@ -86,6 +85,29 @@
     "nombre": "Iron-Man",
     "precio": 869,
     "descripcion": "3 GB RAM, Color:Negro, DD 64 GB",
+    "imagen": "/img/data11.jpg"
+  },
+
+  {
+    "id": 12,
+    "editorial": "MARVEL",
+    "nombre": "Avengers",
+    "precio": "$1800",
+    "descripcion": "La Cruzada del Infinito",
+    "imagen": "/img/data13.jpg"
+  },
+
+  {
+    "id": 13,
+    "editorial": "DC",
+    "nombre": "Batman",
+    "precio": "$1500",
+    "descripcion": "CIUDAD DE BANE",
     "imagen": "/img/data8.jpg"
   }
+
+
+
+
+
 ]
