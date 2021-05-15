@@ -5,6 +5,7 @@
     "nombre": "Linterna Verde",
     "precio": "$2200",
     "descripcion": "Deasd Esmeralda",
+    "stock": 10,
     "imagen": "/img/data4.jpg"
   },
   {
@@ -87,7 +88,6 @@
     "descripcion": "3 GB RAM, Color:Negro, DD 64 GB",
     "imagen": "/img/data11.jpg"
   },
-
   {
     "id": 12,
     "editorial": "MARVEL",
@@ -96,7 +96,6 @@
     "descripcion": "La Cruzada del Infinito",
     "imagen": "/img/data13.jpg"
   },
-
   {
     "id": 13,
     "editorial": "DC",
@@ -105,9 +104,4 @@
     "descripcion": "CIUDAD DE BANE",
     "imagen": "/img/data8.jpg"
   }
-
-
-
-
-
 ]

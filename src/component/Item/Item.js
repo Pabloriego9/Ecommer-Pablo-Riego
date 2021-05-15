@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-const Item = ({ id, nombre, descripcion, precio, imagen }) => {
+const Item = ({ id, nombre, descripcion, precio, imagen, stock, botonera }) => {
   return (
     <div className="card" id={id} style={{ width: "20rem" }}>
       <Link to={`/producto/${id}`}>
@@ -10,6 +10,8 @@ const Item = ({ id, nombre, descripcion, precio, imagen }) => {
         <p className="card-text">{precio}</p>
         <h5 className="card-title">{nombre}</h5>
         <p className="card-text">{descripcion}</p>
+        <p className="card-text">{stock}</p>
+        {botonera}
       </div>
     </div>
   );

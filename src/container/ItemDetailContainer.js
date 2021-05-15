@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import ItemDetail from "../component/ItemDetail/ItemDetail";
+import ItemCountContainer from '../container/ItemCountContainer';
 
 function ItemDetailContainer() {
   const [item, setItem] = useState({});
@@ -24,7 +25,15 @@ function ItemDetailContainer() {
 
   if (!item) return <h1>No hay  un item con ese ID</h1>;
 
-  return <ItemDetail item={item} />;
+  const onAdd = (count) => {
+    console.log(count)
+  }
+
+  return (
+  <div><ItemDetail item={item} />
+  <ItemCountContainer item={item}  onAdd={onAdd}/>
+  </div>
+  )
 }
 
 export default ItemDetailContainer;
