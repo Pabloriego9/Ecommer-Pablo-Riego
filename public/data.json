@@ -103,5 +103,98 @@
     "precio": "$1500",
     "descripcion": "CIUDAD DE BANE",
     "imagen": "/img/data8.jpg"
+  },
+  {
+    "id": 14,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data24.jpg"
+  },
+  {
+    "id": 14,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data17.jpg"
+  },
+  {
+    "id": 22,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data19.jpg"
+  },
+  {
+    "id": 24,
+    "editorial": "Manga",
+    "nombre": "Jojo's",
+    "descripcion": " Bizarre Adventure part IV",
+    "precio": "$1500",
+    "imagen": "/img/data16.jpg"
+  },
+  {
+    "id": 15,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data14.jpg"
+  },
+  {
+    "id": 16,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data28.jpg"
+  },
+  {
+    "id": 17,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data20.jpg"
+  },
+  {
+    "id": 18,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data26.jpg"
+  },
+  {
+    "id": 19,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data25.jpg"
+  },
+  {
+    "id": 20,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data23.png"
+  },
+  {
+    "id": 21,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data22.jpg"
+  },
+  {
+    "id": 23,
+    "editorial": "Manga",
+    "nombre": "Bersek",
+    "precio": "$1500",
+    "imagen": "/img/data18.jpg"
+  },
+  {
+    "id": 24,
+    "editorial": "Manga",
+    "nombre": "Kaguya-Sama",
+    "descripcion": " Love is War ",
+    "precio": "$1500",
+    "imagen": "/img/data21.jpg"
   }
 ]

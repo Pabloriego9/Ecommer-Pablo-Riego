@@ -60,6 +60,9 @@ const NavBar = () => {
               <NavLink className="dropdown-item" to="/categoria/MARVEL">
                 Marvel
               </NavLink>
+              <NavLink className="dropdown-item" to="/categoria/Manga">
+                Mangas
+              </NavLink>
             </div>
           </li>
 

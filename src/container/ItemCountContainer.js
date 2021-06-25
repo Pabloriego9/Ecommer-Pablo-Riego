@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import ItemCount from '../component/ItemCount/ItemCount';
+import ItemCount from '../component/Item/ItemCount';
 
 // realiza toda la logica del contador de unidades.
 

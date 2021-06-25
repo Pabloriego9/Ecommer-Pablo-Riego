@@ -1,0 +1,13 @@
+ .contador{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+} 
+
+.StockdelContador{
+  margin-left: 10%;
+}
+
+ .title {
+   text-align: center;
+ }

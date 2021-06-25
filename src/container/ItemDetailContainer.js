@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
-import ItemDetail from "../component/ItemDetail/ItemDetail";
+import ItemDetail from "../component/Item/ItemDetail";
 import ItemCountContainer from '../container/ItemCountContainer';
 
 function ItemDetailContainer() {
@@ -30,7 +30,7 @@ function ItemDetailContainer() {
   }
 
   return (
-  <div><ItemDetail item={item} />
+  <div className="contador"><ItemDetail item={item} />
   <ItemCountContainer item={item}  onAdd={onAdd}/>
   </div>
   )
